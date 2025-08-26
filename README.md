@@ -70,9 +70,15 @@ A quick Google search on the copyright information was my next step to uncover m
 
 I quickly searched the copyright name, which I presumed to be the author of the image, online precisely on google.com to see if it was linked to any websites. I discovered it was associated with three platforms: GitHub, X (formerly Twitter), and a WordPress blog.
 
+![google output](2snap.png)
+
+
 #### Task 1: Discovering the User’s Avatar
 
 To complete the first task, which was discovering what the user's avatar was, I visited the user's X (formerly Twitter) profile and found that their profile picture was a cat.
+
+![user avater](3snap.png)
+
 
 #### Task 2: Locating the User’s Location
 
