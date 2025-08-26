@@ -111,6 +111,8 @@ Steps:
 
 During the investigation, I examined the target’s GitHub profile and explored the available repositories. Inside one of the repositories, I reviewed the README file and identified a personal email address listed there: OWoodflint@gmail.com. This finding highlights how sensitive information can often be unintentionally exposed through publicly accessible code repositories. GitHub is a common place for OSINT analysts to discover email addresses, usernames, or other identifiers because developers sometimes embed them in documentation, commit messages, or project files.
 
+![user email](8snap.png)
+
 #### Task 5: Answering the 5th Task
 
 The email address information was found on GitHub.
