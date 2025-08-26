@@ -84,6 +84,9 @@ To complete the first task, which was discovering what the user's avatar was, I 
 
 To uncover the user’s location, the second task, I thoroughly examined their GitHub profile. In the README file, I found a clear indication that the user is based in London. This information, directly provided in the README, answers the second question and gives us a geographical context for the user, which can be crucial for further OSINT investigations. Knowing the user's location can help in understanding their digital footprint, potential interests, and online activities, especially when combined with other gathered data.
 
+![user location](4snap.png)
+
+
 #### Task 3: Gathering Information on the SSID
 
 While checking his X (formerly Twitter) account, I found a posted BSSID: B4:5D:50:AA:86:41. A BSSID is a unique identifier for a wireless access point, like a digital fingerprint for networks. To uncover the SSID, we use WiGLE.net — a global database that maps Wi-Fi networks by collecting BSSIDs, SSIDs, and approximate locations. Access requires a registered account, and new accounts are limited to five detailed queries per day.
