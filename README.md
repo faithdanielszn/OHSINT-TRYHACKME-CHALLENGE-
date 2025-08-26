@@ -89,14 +89,23 @@ To uncover the user’s location, the second task, I thoroughly examined their G
 
 #### Task 3: Gathering Information on the SSID
 
-While checking his X (formerly Twitter) account, I found a posted BSSID: B4:5D:50:AA:86:41. A BSSID is a unique identifier for a wireless access point, like a digital fingerprint for networks. To uncover the SSID, we use WiGLE.net — a global database that maps Wi-Fi networks by collecting BSSIDs, SSIDs, and approximate locations. Access requires a registered account, and new accounts are limited to five detailed queries per day.
+While checking his X (formerly Twitter) account, I found a posted BSSID: B4:5D:50:AA:86:41. A BSSID is a unique identifier for a wireless access point, like a digital fingerprint for networks.
+
+![bssid](5snap.png)
+
+To uncover the SSID, we use WiGLE.net — a global database that maps Wi-Fi networks by collecting BSSIDs, SSIDs, and approximate locations. Access requires a registered account, and new accounts are limited to five detailed queries per day.
 
 Steps:
 1. Log in to WiGLE.net.
 2. Enter the BSSID into the search field and apply the filter.
-3. Zoom out to see the world map, then navigate to London.
+3. Zoom out to see the world map, then search london on the map, since we know that is the targets possible location.
 4. A red ring marks the access point’s location.
+
+![ring mark](6snap.png)
+
 5. Zoom in gradually until street level is visible — the SSID UnileverWiFi appears, revealing the answer.
+
+![SSID discovered](7snap.png)
 
 #### Task 4: Finding User’s Email Address
 
