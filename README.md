@@ -22,6 +22,7 @@ The OhSINT room on TryHackMe is an excellent starting point because:
 ### Understanding the Challenge
 
 Before diving into the challenge, I clicked the bright blue button at the top of Task 1 labeled ‘Download Task Files’, to obtain the task file, which I downloaded and saved to my system.
+
 ![task file](ohsint.jpg)
 
 
@@ -62,10 +63,12 @@ I ran the obtained image on ExifTool, which extracted metadata, and I analyzed t
 
 - **GPS Coordinates:** 54 deg 17' 41.27" N, 2 deg 15' 1.33" W
 - **Copyright Information:** OWoodflint.
+ 
+![exiftool output](1snap.png)
 
 A quick Google search on the copyright information was my next step to uncover more clues.
 
-I quickly searched the copyright name, which I presumed to be the author of the image, online to see if it was linked to any websites. I discovered it was associated with three platforms: GitHub, X (formerly Twitter), and a WordPress blog.
+I quickly searched the copyright name, which I presumed to be the author of the image, online precisely on google.com to see if it was linked to any websites. I discovered it was associated with three platforms: GitHub, X (formerly Twitter), and a WordPress blog.
 
 #### Task 1: Discovering the User’s Avatar
 
