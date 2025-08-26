@@ -121,9 +121,17 @@ The email address information was found on GitHub.
 
 To answer the sixth question, I investigated the target’s WordPress blog. In one of the posts, he mentioned being on holiday in New York, which directly reveals his current travel destination. This demonstrates how personal blogs can unintentionally leak location data or travel plans, making them valuable sources in OSINT investigations.
 
+![holiday destination](9snap.png)
+
 #### Task 7: Uncover Password
 
-I began by checking the target’s X (formerly Twitter) account and GitHub profile, but found no relevant clues. As a next step, I inspected the source code of the WordPress site. After carefully reviewing the code several times, I noticed an unusual string hidden in plain sight. At first, it was easy to overlook, but on closer inspection, it became clear that this string was the password: `pennYDr0pper.!`.
+I began by checking the target’s X (formerly Twitter) account and GitHub profile, but found no relevant clues. As a next step, I inspected the source code of the WordPress site. After carefully reviewing the code several times, I noticed an unusual string.
+
+![sourcecode inspection](11snap.png)
+
+At first, it was easy to overlook, but on closer inspection, it became clear that this string was the password hidden in plain sight because when i highlighted the entire webpage i could detect it: `pennYDr0pper.!`.
+
+![hidden in plainsight](12snap.png)
 
 ## Mission Complete
 
